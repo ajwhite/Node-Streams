@@ -1,0 +1,19 @@
+{
+  "name": "Node-Streams",
+  "version": "0.0.0",
+  "description": "Practicing node streams via stream-adventure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajwhite/Node-Streams.git"
+  },
+  "author": "Atticus White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajwhite/Node-Streams/issues"
+  },
+  "homepage": "https://github.com/ajwhite/Node-Streams"
+}
