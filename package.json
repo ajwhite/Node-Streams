@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ajwhite/Node-Streams/issues"
   },
-  "homepage": "https://github.com/ajwhite/Node-Streams"
+  "homepage": "https://github.com/ajwhite/Node-Streams",
+  "dependencies": {
+    "through": "^2.3.4"
+  }
 }
