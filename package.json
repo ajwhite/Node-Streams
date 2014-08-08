@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ajwhite/Node-Streams",
   "dependencies": {
+    "duplexer": "^0.1.1",
     "http": "0.0.0",
     "request": "^2.40.0",
     "split": "^0.3.0",
