@@ -23,6 +23,7 @@
     "request": "^2.40.0",
     "split": "^0.3.0",
     "stream-combiner": "^0.2.1",
+    "tar": "^1.0.0",
     "through": "^2.3.4",
     "trumpet": "^1.6.4",
     "websocket-stream": "^0.6.0",
